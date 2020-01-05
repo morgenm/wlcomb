@@ -2,3 +2,5 @@ __pycache__
 phrases.txt
 out.txt
 *.dat
+wlc_c
+*.exe
